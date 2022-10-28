@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\TARUN\Downloads\Online-banking-angular-springboot-mysql-master\Online-banking-angular-springboot-mysql-master"/>
+			<item value="C:\Users\TARUN\OneDrive\Desktop\RllProject\RllProject\RllProject"/>
+			<item value="C:\Users\TARUN\OneDrive\Desktop\RllProject\RllProject"/>
+			<item value="C:\Users\TARUN\Downloads\Final-Capstone-Project-master\Final-Capstone-Project-master\ICIN-Bank\UserPortal"/>
+			<item value="C:\Users\TARUN\Downloads\m_Aadhar-main\m_Aadhar-main\AadharTesting"/>
+			<item value="C:\Users\TARUN\Downloads\loginRegisterationJava-main\loginRegisterationJava-main\MavenLogin"/>
+			<item value="C:\Users\TARUN\Downloads\LoginRegister-master\LoginRegister-master"/>
+			<item value="C:\Users\TARUN\Downloads\m_Aadhar-main\m_Aadhar-main\AadharRestApi\AadharBackend"/>
+			<item value="C:\Users\TARUN\Downloads\Driver-Your-Way-master\Driver-Your-Way-master\backend-app_backend-app"/>
+			<item value="C:\Users\TARUN\Downloads\mAadhar-Application-main\mAadhar-Application-main\Backend Project\backend-app\backend-app"/>
+			<item value="C:\Users\TARUN\Downloads\backend-app\backend-app"/>
+			<item value="C:\Users\TARUN\Downloads\m-aadhar-application-main\m-aadhar-application-main\MyApp"/>
+			<item value="C:\Users\TARUN\Downloads\online-bookstore-master\online-bookstore-master\onlinebookstore"/>
+			<item value="C:\Users\TARUN\OneDrive\Desktop\Capstone-foodBox-Project-main\Back-End\foodbox"/>
+			<item value="C:\Users\TARUN\OneDrive\Desktop\Phase 6\FoodBox BackEnd(Spring)"/>
+			<item value="C:\Users\TARUN\Downloads\Automate-an-E-Commerce-Web-Application-master\Automate-an-E-Commerce-Web-Application-master\FlipkartTesting"/>
+			<item value="C:\Users\TARUN\Downloads\Automate-an-E-Commerce-Web-Application-main\Automate-an-E-Commerce-Web-Application-main\AutomateFlipkart"/>
+			<item value="C:\Users\TARUN\Downloads\AWS-main\AWS-main"/>
+			<item value="C:\Users\TARUN\Downloads\Phase5-Non-Assisted-Pracice-Projects-master\Phase5-Non-Assisted-Pracice-Projects-master\AutomateTheWebApplication"/>
+			<item value="C:\Users\TARUN\Downloads\Phase5-Practice-Project-2\Automate web application"/>
+			<item value="C:\Users\TARUN\OneDrive\Desktop\AutomationLoginRegister"/>
+			<item value="C:\Users\TARUN\Downloads\Automate-Web-Application-main\Automate-Web-Application-main\AutomateWebApplication"/>
+			<item value="C:\Users\TARUN\Downloads\Automate-the-Web-Application-1-main\Automate-the-Web-Application-1-main\WebappAutomation1"/>
+			<item value="C:\Users\TARUN\OneDrive\Desktop\PHASE 5\Practise Project\AutomationLoginRegister"/>
+			<item value="C:\Users\TARUN\OneDrive\Desktop\PHASE 5\Practise Project\AutomationWebPage"/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="534"/>
+		<item key="DIALOG_Y_ORIGIN" value="203"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\TARUN\Downloads\rll-works-main (1)\rll-works-main\completedrll\ICIN_test"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>
